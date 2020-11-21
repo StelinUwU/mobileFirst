@@ -1,3 +1,5 @@
 # mobileFirst
 
-Website mobile first with Platzi💚
+Website mobile first
+
+Platzi💚
